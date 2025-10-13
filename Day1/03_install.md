@@ -21,3 +21,6 @@
 ## macOS
 
 - Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS.
+
+## AWS CLI Installation 
+Use:- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
